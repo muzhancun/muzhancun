@@ -1,7 +1,7 @@
 ### Hi, welcome to my Github 👋
 
 <!--
-**namespacebilibili/namespacebilibili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**muzhancun/muzhancun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=namespacebilibili&count_private=true&show_icons=true&rank_icon=percentile)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muzhancun&count_private=true&show_icons=true&rank_icon=percentile)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namespacebilibili&layout=compact)](https://github.com/namespacebilibili/github-readme-stats&theme=nord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzhancun&layout=compact)](https://github.com/muzhancun/github-readme-stats&theme=nord)
