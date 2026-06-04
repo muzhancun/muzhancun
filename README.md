@@ -32,14 +32,14 @@
 
 <p>
   <a href="https://github.com/craftjarvis/minestudio">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=craftjarvis&repo=minestudio&theme=github_dark_dimmed" />
+    <img height="120" src="https:///github-stats-extended.vercel.app/api/pin/?username=craftjarvis&repo=minestudio&theme=github_dark_dimmed" />
   </a>
 </p>
 
 ### 📊 GitHub stats
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muzhancun&show_icons=true&theme=github_dark_dimmed&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzhancun&layout=compact&theme=github_dark_dimmed&include_forks=true" />
+  <img height="165" src="https:///github-stats-extended.vercel.app/api?username=muzhancun&show_icons=true&theme=github_dark_dimmed&include_all_commits=true" />
+  <img height="165" src="https:///github-stats-extended.vercel.app/api/top-langs/?username=muzhancun&layout=compact&theme=github_dark_dimmed&include_forks=true" />
 </p>
 
 <p>
